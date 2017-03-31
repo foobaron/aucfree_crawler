@@ -1,5 +1,5 @@
 # aucfree_crawler
-http://aucfree.com/からユーザの出品履歴をCSV形式（落札年月日，オークションID，商品名，落札価格）で出力します。
+http://aucfree.com/ からユーザの出品履歴をCSV形式（落札年月日，オークションID，商品名，落札価格）で出力します。
 
 ## 使い方
 ```
